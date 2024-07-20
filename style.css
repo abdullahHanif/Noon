@@ -215,6 +215,7 @@ body {
   align-items: center;
   margin-top: 40px;
   flex-wrap: wrap;
+  align-items: stretch;
 }
 
 .deal-item {
